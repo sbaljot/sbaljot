@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sbaljot
 - 👀 I’m interested in Python, PHP, HTML, CSS and JS
-- 🌱 I’m currently learning B.Tech
+- 🌱 I’m currently learning PHP frameworks
 - 💞️ I’m looking to collaborate on projects
 - 📫 mychelsateam@gmail.com
 
