@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sbaljot
+- 👋 Hi, I’m Baljot
 - 👀 I’m interested in Python, PHP, HTML, CSS and JS
 - 💞️ I’m looking to collaborate on projects
 - 📫 mychelsateam@gmail.com
